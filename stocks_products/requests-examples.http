@@ -64,13 +64,13 @@ Content-Type: application/json
 ###
 
 # удаление склада
-DELETE {{baseUrl}}/stocks/4/
+DELETE {{baseUrl}}/stocks/1/
 Content-Type: application/json
 
 ###
 
 # обновляем записи на складе
-PATCH {{baseUrl}}/stocks/5/
+PATCH {{baseUrl}}/stocks/1/
 Content-Type: application/json
 
 {
