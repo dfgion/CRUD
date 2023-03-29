@@ -36,7 +36,7 @@ Content-Type: application/json
 ###
 
 # поиск продуктов по названию и описанию
-GET {{baseUrl}}/products/?search=лучшие
+GET {{baseUrl}}/products/?search=лучшие&page=2
 Content-Type: application/json
 
 ###
